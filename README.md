@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DevOpYashu7773
+- 👋 Hi, I’m @DevOpYash7773
 - 👀 I’m interested in Development New Ideas 💡 
 - 🌱 I’m currently learning DSA,React,     JavaScript, Python,
 - 💞️ I’m looking to collaborate on My Project 
