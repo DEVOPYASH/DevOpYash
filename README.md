@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @DevOpYash7773<br>👀 I’m interested in Development New Ideas 💡<br>🌱 I’m currently learning DSA,React, JavaScript, Python,<br>💞️ I’m looking to collaborate on My Project<br>📫 How to reach me ...<br>😄 Pronouns: ... Coding Is Game Come Play With Me
+👋 Hi, I’m @DevOpsYash7773<br>👀 I’m interested in Development New Ideas 💡<br>🌱 I’m currently learning DSA,React, JavaScript, Python,<br>💞️ I’m looking to collaborate on My Project<br>📫 How to reach me ...<br>😄 Pronouns: ... Coding Is Game Come Play With Me
 
 
 ## 🌐 Socials:
